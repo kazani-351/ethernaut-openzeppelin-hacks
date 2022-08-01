@@ -3,4 +3,4 @@ Hacks to Openzeppelin's [Ethernaut](https://ethernaut.openzeppelin.com/) smart c
 
 Posts available on [DEV](https://dev.to/thenvn/series/16194)
 
-Find me on twitter [here](https://twitter.com/the_nvn) 🙏
+Find me on twitter [here](https://twitter.com/kazani351) 🙏
